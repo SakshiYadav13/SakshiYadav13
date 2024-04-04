@@ -1,15 +1,15 @@
-### Hi👋, I am Sakshi Yadav
+## Hi👋, I am Sakshi Yadav
 
 
 **A passionate Data Analyst
 Explore curated data analysis projects demonstrating my skills in extracting insights and making data-driven decisions.**
 
-#### Skills:
+### Skills:
 
-**SQL💻**
-**Advanced Excel📈**
-**Power Bi📊**
-**Python🐍**
+#### SQL💻
+#### Advanced Excel📈
+#### Power Bi📊
+#### Python🐍
 
 ### Contact:
 Reach out to me via email at sakshi1300yadav@gmail.com 📧**
